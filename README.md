@@ -35,7 +35,4 @@ Para correr el proyecto en un dispositvo Android ejecutamos el siguiente comando
 ```diff
 npx react-native start
 ```
-O también puedes usar este que directamente para iniciar "Metro" y correr el proyecto:
-```diff
-run android 
-```
+
